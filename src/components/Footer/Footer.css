@@ -1,0 +1,10 @@
+.footer{
+    background: goldenrod;
+    color: blueviolet;
+    font-weight: 700;
+    text-align: center;
+    width: 100%;
+    padding: 10px;
+    font-size: 18px;
+    margin-top: 430px;
+}
